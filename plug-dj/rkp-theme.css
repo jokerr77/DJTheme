@@ -1592,7 +1592,7 @@
         opacity:                1 !important;
 }
 
-/* SHOP */
+/* SHOP
 #user-store
 {
         background:             rgba(0, 0, 0, 1);
@@ -1653,7 +1653,7 @@
         opacity:                1 !important;
 }
 
-
+*/
 /* FRIENDS */
 #user-friends
 {
@@ -1748,7 +1748,7 @@
         background: rgba(42, 29, 64, 1);
 }
 
-/* COMMUNITIES */
+/* COMMUNITIES
 #user-communities
 {
       background: rgba(0, 0, 0, 1); 
@@ -1789,11 +1789,11 @@
         background:             rgba(255, 255, 255, 0.1);
         opacity:                1 !important;
 }
-
+*/
 /* SETTINGS */
 #user-settings
 {
-      background:               rgb(3, 0, 7) !important;
+      /*background:               rgb(3, 0, 7) !important;*/
       border-left:              3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1877,7 +1877,7 @@
         background:             rgba(50, 60, 105, 1);
 }
 
-/* EXTRA */
+/* EXTRA
 
 #footer-user .back
 {
@@ -1893,7 +1893,7 @@
 {
         opacity:                1;
 }
-
+*/
 /* Video Player Background */
 #playback .background 
 {
@@ -1920,21 +1920,12 @@
 /***************/
 /*NAME STYLINGS*/
 /***************/
-
-/* Enyx */
-[data-cid^="3684485-"].cm .msg .from .un, #user-lists .list.room .user.role-manager.id-3684485 .name
+/* Jokerr77 */
+[data-cid^="22826340"].cm .msg .from .un, #user-lists .list.room .user.role-bouncer.id-22826340 .name
 {
-        color:                  #000 !important;
+	color:                  #000 !important;
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
 }
-
-/* That Random Guy */
-[data-cid^="4105479"].cm .msg .from .un, #user-lists .list.room .role-host.id-4105479 .name
-{
-        /* Orange */
-        color:                   rgba(236, 126, 51, 1) !important;
-}
-
 
 /************/
 /*SCROLL BAR*/
