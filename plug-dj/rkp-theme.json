@@ -1,8 +1,8 @@
 {
-    "room": "Reddit K-Pop",
-    "author": "Created by Jokerr77",
-    "icon": null,
-    "css": null,
+    "room":     "Reddit K-Pop",
+    "author":   "Created by Jokerr77",
+    "icon":     null,
+    "css":      "https://raw.githubusercontent.com/jokerr77/DJTheme/master/plug-dj/rkp-theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -10,7 +10,7 @@
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
-        "allowShowingMehs": true,
+        "allowShowingMehs": false,
         "forceSmartVote": false
     },
     "ccc": {
