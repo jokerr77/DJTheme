@@ -590,7 +590,7 @@
 /* Chat Header */
 #chat-header
 {
-        background:             rgba(0, 0, 0, 1) !important;
+        /*background:             rgba(0, 0, 0, 1) !important;*/
 }
 
 #chat-header #chat-sound-button,
@@ -693,7 +693,6 @@
 /* Header Selected Item + Titles */
 #app .header-panel-button.selected
 {
-        background:             rgb(3, 0, 7) !important;
         /* Adds a strip indicator of the currently selected item. */
         box-shadow:             inset 0 -2px 0 0 rgba(146, 56, 146, 1) !important;
 }
@@ -703,7 +702,7 @@
 #waitlist .header,
 #app .friends .list-header
 {
-        background:             rgb(3, 0, 7) !important;
+	
 }
 
 /* Hover over Chat, Waitlist, DJ List, Friends, RCS */
@@ -745,9 +744,7 @@
 
 /*** FOOTER ANIMATIONS ***/
 #footer-user .info
-{
-        background-color:       rgba(0, 0, 0, 1);
-        
+{   
         -moz-animation:         fadein 0.34s;
         -webkit-animation:      fadein 0.34s;
         -o-animation:           fadein 0.34s;
@@ -785,7 +782,6 @@
 /* Footer Bar */
 #footer 
 {
-        background:             rgb(3, 0, 7) !important;
         /*background:             linear-gradient(0deg,#13002f 0,#002149 169%,#111317 100%) !important;*/
 }
 
@@ -1869,7 +1865,7 @@
         -moz-box-shadow:        inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
         -o-box-shadow:          inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
         box-shadow:             inset 0 -5px 0 0 rgba(240, 79, 48, 1) !important;
-        background:             rgba(40, 44, 53, 1);
+        /*background:             rgba(40, 44, 53, 1);*/
 }
 
 #user-settings .account .left dd .row:hover
@@ -1921,7 +1917,7 @@
 /*NAME STYLINGS*/
 /***************/
 /* Jokerr77 */
-[data-cid^="22826340"].cm .msg .from .un, #user-lists .list.room .user.role-bouncer.id-22826340 .name
+[data-cid^="22826340"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-22826340 .name
 {
 	color:                  #000 !important;
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
