@@ -327,11 +327,7 @@
 
 /* Plug Logo Menu */
 #app-menu .button, 
-#app-menu .list
-{
-        background:             rgb(3, 0, 7) !important;
-}
-
+#app-menu .list,
 #app-menu .button, 
 #app-menu .item, 
 #app-menu .logout
@@ -559,7 +555,7 @@
 
 #user-lists .list .jspPane .user:hover
 {
-        background:             rgba(148, 94, 242, 0.15) !important;
+        /*background:             rgba(148, 94, 242, 0.15) !important;*/
 }
 
 /* Friends List Hover */
