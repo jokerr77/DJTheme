@@ -66,7 +66,7 @@
 }
 
 /* Editing Media Dialog Box [Playlist] */
-#dialog-media-update,
+/*#dialog-media-update,
 #dialog-playlist-rename, 
 #dialog-playlist-delete,
 #dialog-playlist-create,
@@ -83,7 +83,7 @@
 {
         background:             rgba(49, 49, 49, 1) !important;
 }
-
+*/
 #dialog-media-update,
 #dialog-playlist-rename, 
 #dialog-playlist-delete,
@@ -113,7 +113,7 @@
 #dialog-playlist-create .dialog-frame .button,
 #dialog-delete .dialog-frame .button
 {
-        background:             rgba(0, 0, 0, 1) !important;
+        /*background:             rgba(0, 0, 0, 1) !important;*/
         color:                  rgba(128, 134, 145, 1) !important;
 }
 
@@ -369,11 +369,7 @@
 
 /* Room History & RCS Skip Button */
 #history-button,
-#rs-skip-button
-{
-        background:             rgb(3, 0, 7) !important;
-}
-
+#rs-skip-button,
 #rs-skip-button
 {
         /* Prevents Flicker Issues */
