@@ -251,7 +251,6 @@
 /* Friend Requests/Profile Notifications */
 #friends-button .request-count, #footer-user .buttons .button.notify .count
 {
-    /*background-color: rgba(146, 56, 146, 1) !important;*/
     color: white;
 }
 
@@ -553,11 +552,6 @@
         transition:             all 0.3s linear;
 }
 
-#user-lists .list .jspPane .user:hover
-{
-        /*background:             rgba(148, 94, 242, 0.15) !important;*/
-}
-
 /* Friends List Hover */
 #app .friends .list .jspPane .row
 {
@@ -664,7 +658,7 @@
 /* Footer Bar */
 #footer 
 {
-        /*background:             linear-gradient(0deg,#13002f 0,#002149 169%,#111317 100%) !important;*/
+        background:             linear-gradient(0deg,#13002f 0,#002149 169%,#111317 100%) !important;
 }
 
 /* Footer Bar Flicker & Animation Fixes */
@@ -681,7 +675,7 @@
 /* After fixing the inset, the color of each object gets the body's default grey,
    so we are matching the colors here to the animation colors which will keep 
    the animation colored properly and not transitioning from the default grey. */
-#footer-user .inventory
+/*#footer-user .inventory
 {
         color: rgba(146, 56, 146, 1) !important;
 } 
@@ -705,7 +699,7 @@
 {
         color: rgba(84, 123, 201, 1) !important;
 } 
-
+*/
 /* Footer Buttons Static */
 #footer-user .inventory,
 #footer-user .badge,
@@ -985,9 +979,7 @@
 }
 
 #playlist-button
-{
-        background:             rgb(3, 0, 7) !important;
-        
+{    
         -webkit-transition:     all 0.3s linear;
         -moz-transition:        all 0.3s linear;
         -o-transition:          all 0.3s linear;
