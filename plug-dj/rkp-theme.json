@@ -2,7 +2,7 @@
     "room":     "Test",
     "author":   "Created by Jokerr77",
     "icon":     null,
-    "css":      "https://cdn.rawgit.com/jokerr77/DJTheme/0998f46ecc988343f19c2ade8d2c19698ab381ba/plug-dj/rkp-theme.css",
+    "css":      "https://cdn.rawgit.com/jokerr77/DJTheme/af9fddc4daca77e05e26e3496f12e6ad12778f56/plug-dj/rkp-theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
