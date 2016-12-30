@@ -1790,26 +1790,38 @@
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
 }
 
-/* Creabait */
+/* Creabait 
 [data-cid^="22853105"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-22853105 .name
 {
 	color:                  #000 !important;
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
 }
-
+*/
 /* Jokerr77 */
 #chat-messages .id-22826340 .badge-box i.bdg
 {
         background-image:       url('http://i.imgur.com/oUiPLXQ.png'); 
         background-size:        cover; 
 }
-
+/* Test */
 #chat-messages .id-22853105 .badge-box i.bdg
 {
-        background-image:       url('http://i.imgur.com/oUiPLXQ.png'); 
-        background-size:        cover; 
+        background-image:       url('http://i.imgur.com/F9gqHn6.gif');
+        background-size:        cover;
 }
-
+#chat-messages .id-22853105 
+{
+        background: rgba(34, 23, 54, 0.33) !important;
+        border-left: 3px solid #8230FF;
+}
+[data-cid^="22853105"] .msg .from .un 
+{
+        color: #ac76ff !important;
+}
+#chat-messages .id-22853105 .badge-box 
+{
+        background:none;
+}
 /************/
 /*SCROLL BAR*/
 /************/
