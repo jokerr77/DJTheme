@@ -1346,7 +1346,9 @@
         background:             rgba(50, 60, 105, 1);
 
 }
-
+#user-view{
+	opacity:		0.9;
+}
 /* PROFILE */
 #the-user-profile
 {
