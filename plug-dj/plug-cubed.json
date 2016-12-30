@@ -16,7 +16,7 @@
         },
         "css": {
             "font": [],
-            "import": [https://rawgit.com/jokerr77/DJTheme/master/plug-dj/rkp-theme.css],
+            "import": ["https://rawgit.com/jokerr77/DJTheme/master/plug-dj/rkp-theme.css"],
             "rule": {}
         },
         "images": {
