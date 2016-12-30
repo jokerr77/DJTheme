@@ -1350,7 +1350,7 @@
 /* PROFILE */
 #the-user-profile
 {
-        background:             rgba(47, 52, 62, 0.9);
+        opacity:             	0.9;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1365,7 +1365,7 @@
 /* MY STUFF */
 #user-inventory
 {
-	background: 		rgba(47, 52, 62, 0.9);
+	opacity:		0.9;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1439,7 +1439,7 @@
 /* SHOP*/
 #user-store
 {
-	background: 		rgba(47, 52, 62, 0.9);
+	background: 		rgba(47, 52, 62, 1);
         border-left:            3px solid rgba(42, 29, 64, 1);
 	
 }
@@ -1500,7 +1500,7 @@
 /* FRIENDS */
 #user-friends
 {
-	background: 		rgba(47, 52, 62, 0.9);
+	background: 		rgba(47, 52, 62, 1);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
