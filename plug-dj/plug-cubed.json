@@ -1,0 +1,43 @@
+{
+        "author": "Jokerr77",
+        "colors": {
+        "background": "",
+        "chat": {
+            "admin": "",
+            "ambassador": "",
+            "host": "",
+            "cohost": "",
+            "manager": "",
+            "bouncer": "",
+            "residentdj": ""
+        },
+            "footer": "",
+            "header": ""
+        },
+        "css": {
+            "font": [],
+            "import": [https://rawgit.com/jokerr77/DJTheme/master/plug-dj/rkp-theme.css],
+            "rule": {}
+        },
+        "images": {
+            "background": "https://cdn.radiant.dj/rcs/bg/2k14lounge.jpg",
+            "booth": "",
+            "icons": {
+                "admin": "",
+                "ambassador": "",
+                "host": "",
+                "cohost": "",
+                "manager": "",
+                "bouncer": "",
+                "residentdj": ""
+            },
+            "playback": ""
+        },
+        "rules": {
+            "allowAutojoin": "true",
+            "allowAutorespond": "true",
+            "allowAutowoot": "true",
+            "allowEmotes": "true",
+            "allowShowingMehs": "false"
+        }
+}
