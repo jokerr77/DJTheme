@@ -673,34 +673,7 @@
     box-shadow:         inset 0 0 !important;
 }
 
-/* After fixing the inset, the color of each object gets the body's default grey,
-   so we are matching the colors here to the animation colors which will keep 
-   the animation colored properly and not transitioning from the default grey. */
-/*#footer-user .inventory
-{
-        color: rgba(146, 56, 146, 1) !important;
-} 
 
-#footer-user .badge
-{
-        color: rgba(135, 68, 156, 1) !important;
-} 
-
-#footer-user .store
-{
-        color: rgba(120, 84, 169, 1) !important;
-} 
-
-#footer-user .profile
-{
-        color: rgba(98, 108, 188, 1) !important;
-} 
-
-#footer-user .settings
-{
-        color: rgba(84, 123, 201, 1) !important;
-} 
-*/
 /* Footer Buttons Static */
 #footer-user .inventory,
 #footer-user .badge,
@@ -1377,7 +1350,7 @@
 /* PROFILE */
 #the-user-profile
 {
-        background:             rgba(0, 0, 0, 1);
+        background:             rgba(47, 52, 62, 0.9);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1392,6 +1365,7 @@
 /* MY STUFF */
 #user-inventory
 {
+	background: 		rgba(47, 52, 62, 0.9);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1465,8 +1439,9 @@
 /* SHOP*/
 #user-store
 {
+	background: 		rgba(47, 52, 62, 0.9);
         border-left:            3px solid rgba(42, 29, 64, 1);
-	opacity: 0.9;
+	
 }
 
 #user-store .tab-menu button
@@ -1525,6 +1500,7 @@
 /* FRIENDS */
 #user-friends
 {
+	background: 		rgba(47, 52, 62, 0.9);
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1598,7 +1574,7 @@
 /* RECENTLY PLAYED */
 #user-history
 {
-      opacity:			0.90;
+      background:		rgba(47, 52, 62, 0.9);
       border-left:              3px solid rgba(42, 29, 64, 1); 
 }
 
