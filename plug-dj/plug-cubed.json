@@ -17,9 +17,7 @@
         "css": {
             "font": [],
             "import": [
-                    "https://rawgit.com/jokerr77/DJTheme/master/plug-dj/rkp-theme.css",
-                    "https://rawgit.com/jokerr77/DJTheme/master/plug-dj/rkp-custom-badges.css"
-            
+                    "https://cdn.rawgit.com/jokerr77/DJTheme/4274807bac1dcba79e844fe210af9a606edf1528/plug-dj/rkp-theme.css"
             ],
             "rule": {}
         },
