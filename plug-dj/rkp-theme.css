@@ -1350,7 +1350,6 @@
 /* PROFILE */
 #the-user-profile
 {
-        opacity:             	0.5;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
@@ -1365,7 +1364,6 @@
 /* MY STUFF */
 #user-inventory
 {
-	opacity:		0.3;
         border-left:            3px solid rgba(42, 29, 64, 1);
 }
 
