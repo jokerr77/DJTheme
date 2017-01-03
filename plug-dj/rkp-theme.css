@@ -1777,7 +1777,7 @@
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
 }
 /* Andji_x3 */
-[data-cid^="6300400"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-6300400 .name
+[data-cid^="6300400"].cm .msg .from .un, #user-lists .list.room .user.role-manager.id-6300400 .name
 {
 	color:                  #000 !important;
         text-shadow:            0px 0px 1px #ac76ff, 0px 0px 5px #ac76ff, 0px 0px 15px #ac76ff !important;
