@@ -2,7 +2,7 @@
     "room":     "Reddit Kpop",
     "author":   "Created by Jokerr77",
     "icon":     null,
-    "css":      "https://cdn.rawgit.com/jokerr77/DJTheme/9e0d4f01cebdc3e928a19b3bdc4030aa6e11abaf/plug-dj/rkp-theme.css",
+    "css":      "https://cdn.rawgit.com/jokerr77/DJTheme/e375ff84d6d06565e3eb1e9b97286e600b0f00f9/plug-dj/rkp-theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
